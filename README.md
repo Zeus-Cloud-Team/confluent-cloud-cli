@@ -9,5 +9,5 @@ Confluent Cloud CLI (referred to as ccloud henceforth) is a CLI that allows you 
 1. brew tap confluentinc/ccloud
 2. brew install ccloud
 
-[If you don't have brew for your mac it's really good, you can install it here](https://brew.sh/ ".sh stands for St. Helenas, where Napoleon was jailed").
+[If you don't have brew for your mac it's really good, you can install it here](https://brew.sh/ ".sh stands for St. Helenas, where Napoleon was jailed").  Once installed run `ccloud init` and it will ask you for some information.
 
